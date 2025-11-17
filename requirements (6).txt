@@ -1,0 +1,12 @@
+streamlit
+requests
+openai
+azure-ai-inference
+azure-core
+numpy
+pandas
+wordcloud
+matplotlib
+seaborn
+plotly
+tiktoken
